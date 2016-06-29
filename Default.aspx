@@ -35,8 +35,8 @@
     </nav>
     <div class="container theme-showcase">
         <div class="jumbotron">
-            <h1>MySQL Example</h1>
-            <p>This is MySQL Example Application which demonstrate connectivity between ASP.NET 4.5 and MySQL on OpenShift 3 Cloud.</p>
+            <h1>ASP.NET 4.5 with MySQL</h1>
+            <p>This is ASP.NET 4.5 Application which demonstrate connectivity between ASP.NET 4.5 and MySQL on OpenShift 3 Cloud.</p>
         </div>
         <div class="alert alert-danger alert-dismissible fade in" role="alert" id="dvAlertError" style="display: none;" runat="server">
             <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
